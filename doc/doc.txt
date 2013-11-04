@@ -1,0 +1,3 @@
+- Importar db/import.js en MongoDB: mongoimport --db shop-phones --collection phones --file db/import.json
+
+
